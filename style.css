@@ -13,7 +13,6 @@ body{
     align-items: center;
     background: linear-gradient(70deg, #633535, rgb(2, 12, 126));
     background-repeat: no-repeat;
-    background-size:cover;
     height:700px;
 }
 .calculator {
